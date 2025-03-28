@@ -4,8 +4,9 @@
   color: rgb(30, 144, 255);
   padding: 20px;
   text-align: center;
-  border-radius: 5px 5px 0 0;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  box-shadow: 1px 2px 30px 4px rgba(49, 30, 128, 0.801);
+  width: 600px;
 }
 
 
